@@ -1,0 +1,135 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="cs">
+  <siteinfo>
+    <sitename>Wikipedie</sitename>
+    <dbname>cswiki</dbname>
+    <base>https://cs.wikipedia.org/wiki/Hlavn%C3%AD_strana</base>
+    <generator>MediaWiki 1.45.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Média</namespace>
+      <namespace key="-1" case="first-letter">Speciální</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskuse</namespace>
+      <namespace key="2" case="first-letter">Wikipedista</namespace>
+      <namespace key="3" case="first-letter">Diskuse s wikipedistou</namespace>
+      <namespace key="4" case="first-letter">Wikipedie</namespace>
+      <namespace key="5" case="first-letter">Diskuse k Wikipedii</namespace>
+      <namespace key="6" case="first-letter">Soubor</namespace>
+      <namespace key="7" case="first-letter">Diskuse k souboru</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Diskuse k MediaWiki</namespace>
+      <namespace key="10" case="first-letter">Šablona</namespace>
+      <namespace key="11" case="first-letter">Diskuse k šabloně</namespace>
+      <namespace key="12" case="first-letter">Nápověda</namespace>
+      <namespace key="13" case="first-letter">Diskuse k nápovědě</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Diskuse ke kategorii</namespace>
+      <namespace key="100" case="first-letter">Portál</namespace>
+      <namespace key="101" case="first-letter">Diskuse k portálu</namespace>
+      <namespace key="102" case="first-letter">Rejstřík</namespace>
+      <namespace key="103" case="first-letter">Diskuse k rejstříku</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Modul</namespace>
+      <namespace key="829" case="first-letter">Diskuse k modulu</namespace>
+      <namespace key="1728" case="first-letter">Event</namespace>
+      <namespace key="1729" case="first-letter">Event talk</namespace>
+      <namespace key="2600" case="first-letter">Téma</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Hlavní strana</title>
+    <ns>0</ns>
+    <id>4</id>
+    <revision>
+      <id>21091310</id>
+      <parentid>20966783</parentid>
+      <timestamp>2022-03-30T09:26:48Z</timestamp>
+      <contributor>
+        <username>Blahma</username>
+        <id>439</id>
+      </contributor>
+      <comment>změna cíle odkazu „Další aktuality…“ na základě nerozporovaného zdůvodněného návrhu (s jednou podporou) na diskuzní stránce</comment>
+      <origin>21091310</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5165" sha1="ldc1p9kruoxcyn31x15yrv73jtyhz66" xml:space="preserve">&lt;templatestyles src=&quot;MediaWiki:MainPage-stylesheet.css&quot; /&gt;{{nobots}}__NOTOC__ __NOEDITSECTION__
+&lt;!------- HLAVIČKA -------&gt;
+&lt;div class=&quot;header nomobile&quot;&gt;
+&lt;div class=&quot;header-left&quot;&gt;
+&lt;div class=&quot;header-welcome-headline&quot;&gt;[[Wikipedie:Průvodce|Vítejte ve&amp;nbsp;Wikipedii]],&lt;/div&gt;
+&lt;div class=&quot;header-welcome-description&quot;&gt;internetové [[encyklopedie|encyklopedii]], kterou může [[Nápověda:Úvod|upravovat každý]].&lt;br&gt;[[Česká Wikipedie]] má nyní '''[[Speciální:Statistika|{{POČETČLÁNKŮ}}]]''' [[Speciální:Nové stránky|článků]].&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;header-right&quot;&gt;[[Soubor:Other languages icon.svg|80px|text-bottom|link=]]&lt;br&gt;[[Wikipedie:Seznam jazyků Wikipedie|Jiné jazyky]]&lt;br&gt;[[Wikipedie:Velvyslanectví|Embassy]]&lt;/div&gt;
+&lt;/div&gt;
+&lt;!------- PANORAMATICKÝ OBRÁZEK -------&gt;&lt;!--
+&lt;div style=&quot;background-color:#FCFCFC; border:1px solid #E6E6E6; margin-top:.5em&quot;&gt;
+&lt;div style=&quot;background-color:#E6E6E6; padding-top:.2em; padding-left:.4em; padding-bottom:.2em&quot;&gt;'''[[Wikipedie:Obrázek týdne|Obrázek týdne]]'''&lt;/div&gt;
+&lt;div style=&quot;margin:.8em .5em&quot;&gt;{{Wikipedie:Obrázek týdne/{{#timel:o/W|{{#ifexist:Wikipedie:Obrázek týdne/{{#timel:o/W}}||-1 week}}}}}}&lt;/div&gt;
+&lt;div style=&quot;background-color:#F7F7F7; clear:right; font-size:.9em; text-align:right&quot;&gt;[[commons:Commons:Featured pictures/cs|Nejlepší obrázky]] • [[Wikipedie:Obrázek týdne/{{MÍSTNÍROK}}|Další obrázky týdne…]]&lt;/div&gt;
+&lt;/div&gt;
+--&gt;
+&lt;!-- začátek levého sloupce --&gt;
+&lt;div class=&quot;mainpage-left&quot;&gt;
+&lt;!------- ČLÁNEK TÝDNE -------&gt;
+&lt;div class=&quot;mainpage-block aow-container&quot;&gt;
+&lt;div class=&quot;mainpage-headline&quot;&gt;[[Wikipedie:Článek týdne|Článek týdne]]&lt;/div&gt;
+&lt;div class=&quot;mainpage-content&quot;&gt;{{Wikipedie:Článek týdne/{{#timel:o/W|{{#ifexist:Wikipedie:Článek týdne/{{#timel:o/W}}||-1 week}}}}}}&lt;/div&gt;
+&lt;div class=&quot;mainpage-footer&quot;&gt;[[Wikipedie:Nejlepší články|Nejlepší články]] • [[Wikipedie:Dobré články|Dobré články]] • [[Wikipedie:Článek týdne/{{MÍSTNÍROK}}|Další články týdne…]]&lt;/div&gt;
+&lt;/div&gt;
+&lt;!------- VÍTE ŽE -------&gt;
+&lt;div class=&quot;mainpage-block dyk-container&quot;&gt;
+&lt;div class=&quot;mainpage-headline&quot;&gt;[[Wikipedie:Zajímavosti|Víte, že…]]&lt;/div&gt;
+&lt;div class=&quot;mainpage-content&quot;&gt;{{Wikipedie:Zajímavosti/{{#timel:o/W|{{#ifexist:Wikipedie:Zajímavosti/{{#timel:o/W}}||-1 week}}}}}}&lt;/div&gt;
+&lt;div class=&quot;mainpage-footer&quot;&gt;{{#ifexist:Wikipedie:Zajímavosti/{{MÍSTNÍROK}}|[[Wikipedie:Zajímavosti/{{MÍSTNÍROK}}|Další zajímavosti…]]|}}&lt;/div&gt;
+&lt;/div&gt;
+&lt;!------- KATEGORIE -------&gt;
+&lt;div class=&quot;mainpage-block cats-container&quot;&gt;
+&lt;div class=&quot;mainpage-headline&quot;&gt;[[:Kategorie:Hlavní kategorie|Listování kategoriemi]]&lt;/div&gt;
+&lt;div class=&quot;mainpage-content&quot;&gt;{{:Hlavní strana/Přehled kategorií}}&lt;/div&gt;
+&lt;div class=&quot;mainpage-footer&quot;&gt;[[Speciální:Kategorie|Všechny kategorie…]]&lt;/div&gt;
+&lt;/div&gt;
+&lt;!------- PORTÁLY -------&gt;
+&lt;div class=&quot;mainpage-block portals-container&quot;&gt;
+&lt;div class=&quot;mainpage-headline&quot;&gt;[[Portál:Obsah|Tematické portály]]&lt;/div&gt;
+&lt;div class=&quot;mainpage-content&quot;&gt;{{:Hlavní strana/Přehled wikiportálů}}&lt;/div&gt;
+&lt;div class=&quot;mainpage-footer&quot;&gt;[[Wikipedie:Dobré články#Portály|Dobré portály]] • [[Portál:Obsah|Všechny portály…]]&lt;/div&gt;
+&lt;/div&gt;
+&lt;!------- REDAKCE -------&gt;
+&lt;div class=&quot;mainpage-block editors-container&quot;&gt;
+&lt;div class=&quot;mainpage-headline&quot;&gt;[[Wikipedie:Portál Wikipedie|Wikipedie]]&lt;/div&gt;
+&lt;div class=&quot;mainpage-content&quot;&gt;{{:Hlavní strana/Redakce}}&lt;/div&gt;
+&lt;div class=&quot;mainpage-footer&quot;&gt;[[Nápověda:Obsah|Další nápověda…]]&lt;/div&gt;
+&lt;/div&gt;
+&lt;!------- SESTERSKÉ PROJEKTY -------&gt;
+&lt;div class=&quot;mainpage-block sisters-container&quot;&gt;
+&lt;div class=&quot;mainpage-headline&quot;&gt;[[Nadace Wikimedia|Ostatní projekty]]&lt;/div&gt;
+&lt;div class=&quot;mainpage-content&quot;&gt;{{:Hlavní strana/Ostatní projekty}}&lt;/div&gt;
+&lt;div class=&quot;mainpage-footer&quot;&gt;[[Nadace Wikimedia|Další informace…]]&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- začátek pravého sloupce --&gt;
+&lt;div class=&quot;mainpage-right&quot;&gt;
+&lt;!------- OBRÁZEK TÝDNE -------&gt;
+&lt;div class=&quot;mainpage-block picture-container&quot;&gt;
+&lt;div class=&quot;mainpage-headline&quot;&gt;[[Wikipedie:Obrázek týdne|Obrázek týdne]]&lt;/div&gt;
+&lt;div class=&quot;mainpage-content&quot;&gt;{{Wikipedie:Obrázek týdne/{{#timel:o/W|{{#ifexist:Wikipedie:Obrázek týdne/{{#timel:o/W}}||-1 week}}}}}}&lt;/div&gt;
+&lt;div class=&quot;mainpage-footer&quot;&gt;[[commons:Commons:Featured pictures/cs|Nejlepší obrázky]] • [[Wikipedie:Obrázek týdne/{{MÍSTNÍROK}}|Další obrázky týdne…]]&lt;/div&gt;
+&lt;/div&gt;
+&lt;!------- AKTUALITY -------&gt;
+&lt;div class=&quot;mainpage-block news-container&quot;&gt;
+&lt;div class=&quot;mainpage-headline&quot;&gt;[[Portál:Aktuality|Aktuality]]&lt;/div&gt;
+&lt;div class=&quot;mainpage-content odrazenedefinice&quot;&gt;{{:Šablona:Nejnovější aktuality}}&lt;/div&gt;
+&lt;div class=&quot;mainpage-footer&quot;&gt;[[Portál:Aktuality|Další aktuality…]]&lt;/div&gt;
+&lt;/div&gt;
+&lt;!------- KALENDÁŘ -------&gt;
+&lt;div class=&quot;mainpage-block calendar-container&quot;&gt;
+&lt;div class=&quot;mainpage-headline&quot;&gt;[[{{MÍSTNÍDEN}}. {{MÍSTNÍMĚSÍCJMÉNO}}|{{MÍSTNÍDEN}}. {{MÍSTNÍMĚSÍCJMÉNO}} v minulosti]]&lt;/div&gt;
+&lt;div class=&quot;mainpage-content&quot;&gt;{{Wikipedie:Vybraná výročí dne/{{MÍSTNÍDEN}}. {{MÍSTNÍMĚSÍCJMÉNO}}}}&lt;/div&gt;
+&lt;div class=&quot;mainpage-footer&quot;&gt;[[Wikipedie:Vybraná výročí dne/{{MÍSTNÍMĚSÍCJMÉNO}}|Další výročí…]]&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;mainpage-clearfix&quot;&gt;&lt;/div&gt;</text>
+      <sha1>ldc1p9kruoxcyn31x15yrv73jtyhz66</sha1>
+    </revision>
+  </page>
