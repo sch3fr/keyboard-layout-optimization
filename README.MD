@@ -1,6 +1,7 @@
 # Keyboard Layout Optimization
 - a repo containing all the scripts and source code of my thesis
 - document folder contains the LaTeX source for the thesis
+    - that includes the full bib file with all used sources
 - scripts contains scripts (wow)
 ## How to
 - to run the scripts as described in the thesis, you will need to obtain a wikipedia dump, [I used this one](https://mirror.accum.se/mirror/wikimedia.org/dumps/cswiki/20250920/})
