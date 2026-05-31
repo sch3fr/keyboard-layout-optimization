@@ -1,0 +1,74 @@
+% keyboard.sty
+\ProvidesPackage{keyboard}
+\usepackage{tikz}
+\RequirePackage{environ}   % NEW: Allows capturing the environment body
+\RequirePackage{graphicx}  % NEW: Allows resizing
+\usetikzlibrary{shadows, calc}
+
+% --- Configuration ---
+\def\kbUnit{1cm}      % Size of 1u
+\def\kbGap{0.05cm}    % Gap between keys
+
+% --- Internal Counters for Auto-Positioning ---
+\newlength{\kbCurrentX}
+\newlength{\kbCurrentY}
+
+% --- Style Definition ---
+\tikzset{
+    kbkey/.style={
+        draw=gray!80,
+        fill=white,
+        rounded corners=2pt,
+        line width=0.8pt,
+        font=\sffamily\small,
+        align=center,
+        inner sep=0pt,
+        drop shadow={opacity=0.25, shadow xshift=1pt, shadow yshift=-1pt}
+    }
+}
+
+% --- The Environment ---
+% --- The "Smart" Auto-Scaling Environment ---
+% Usage: \begin{keyboardlayout} (Defaults to \linewidth)
+%        \begin{keyboardlayout}[0.8\linewidth] (Custom width)
+\NewEnviron{keyboardlayout}[1][\linewidth]{
+    % Check if the content is wider than the target width
+    % We use \resizebox to force the TikZ picture to fit the argument #1
+    \noindent
+    \resizebox{#1}{!}{%
+        \begin{tikzpicture}
+            \setlength{\kbCurrentX}{0cm}
+            \setlength{\kbCurrentY}{0cm}
+            \BODY  % This inserts the content you type in your main.tex
+        \end{tikzpicture}
+    }
+}
+% --- The "Add Key" Command ---
+% Usage: \key{Label}{Width_in_U}
+% Optional: \key[color]{Label}{Width_in_U}
+\newcommand{\key}[3][white]{
+    % Calculate dimensions
+    \pgfmathsetlengthmacro{\kWidth}{#3 * \kbUnit}
+    \pgfmathsetlengthmacro{\kHeight}{\kbUnit}
+    
+    % Draw the node
+    % Center X = CurrentX + Width/2
+    % Center Y = CurrentY + Height/2
+    \node[kbkey, fill=#1, minimum width=\kWidth-\kbGap, minimum height=\kHeight-\kbGap] 
+        at (\kbCurrentX + \kWidth/2, \kbCurrentY + \kHeight/2) {#2};
+        
+    % Advance the X cursor
+    \addtolength{\kbCurrentX}{\kWidth}
+}
+
+% --- The "New Row" Command ---
+\newcommand{\newrow}{
+    \setlength{\kbCurrentX}{0cm}       % Reset X to 0
+    \addtolength{\kbCurrentY}{-\kbUnit} % Move Y down by 1u
+}
+
+% --- Space Skipper (for blockers or empty spaces) ---
+\newcommand{\skipkey}[1]{
+    \pgfmathsetlengthmacro{\kWidth}{#1 * \kbUnit}
+    \addtolength{\kbCurrentX}{\kWidth}
+}

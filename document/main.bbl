@@ -1,0 +1,939 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{applicationAlgo}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=2469025857664f075d338ffed23f6c99}{%
+           family={ONSORODI},
+           familyi={O\bibinitperiod},
+           given={{A. H. H.}},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3143c3a0807e2cbac3e3c2cb7c41449c}{%
+           family={KORHAN},
+           familyi={K\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science (PLoS)}%
+      }
+      \strng{namehash}{d16f6c693e10094793e49beed8ffff02}
+      \strng{fullhash}{d16f6c693e10094793e49beed8ffff02}
+      \strng{fullhashraw}{d16f6c693e10094793e49beed8ffff02}
+      \strng{bibnamehash}{d16f6c693e10094793e49beed8ffff02}
+      \strng{authorbibnamehash}{d16f6c693e10094793e49beed8ffff02}
+      \strng{authornamehash}{d16f6c693e10094793e49beed8ffff02}
+      \strng{authorfullhash}{d16f6c693e10094793e49beed8ffff02}
+      \strng{authorfullhashraw}{d16f6c693e10094793e49beed8ffff02}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLoS One}
+      \field{number}{1}
+      \field{title}{Application of a~genetic algorithm to the keyboard layout problem}
+      \field{volume}{15}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0226611
+      \endverb
+    \endentry
+    \entry{textEntrySystems}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=3fce2f1a3a8ca52dc7f6312bf7cd11b3}{%
+           family={MACKKENZIE},
+           familyi={M\bibinitperiod},
+           given={{I. S.}},
+           giveni={I\bibinitperiod}}}%
+        {{hash=e63dbb17834044ef2d43b2eb2055d253}{%
+           family={TANAKA-ISHII},
+           familyi={T\bibinithyphendelim I\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \list{publisher}{1}{%
+        {Morgan Kaufmann}%
+      }
+      \strng{namehash}{db45bf0c75d53fb0d0ceb8d6101488c6}
+      \strng{fullhash}{db45bf0c75d53fb0d0ceb8d6101488c6}
+      \strng{fullhashraw}{db45bf0c75d53fb0d0ceb8d6101488c6}
+      \strng{bibnamehash}{db45bf0c75d53fb0d0ceb8d6101488c6}
+      \strng{authorbibnamehash}{db45bf0c75d53fb0d0ceb8d6101488c6}
+      \strng{authornamehash}{db45bf0c75d53fb0d0ceb8d6101488c6}
+      \strng{authorfullhash}{db45bf0c75d53fb0d0ceb8d6101488c6}
+      \strng{authorfullhashraw}{db45bf0c75d53fb0d0ceb8d6101488c6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-12-373591-1}
+      \field{title}{Text entry systems: Mobility, accessibility, universality}
+      \field{year}{2007}
+    \endentry
+    \entry{engramapproach}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=c273ac0a2be88117b1e693136b5d7d7f}{%
+           family={KLEIN},
+           familyi={K\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Basel}%
+      }
+      \list{publisher}{1}{%
+        {Preprints}%
+      }
+      \strng{namehash}{c273ac0a2be88117b1e693136b5d7d7f}
+      \strng{fullhash}{c273ac0a2be88117b1e693136b5d7d7f}
+      \strng{fullhashraw}{c273ac0a2be88117b1e693136b5d7d7f}
+      \strng{bibnamehash}{c273ac0a2be88117b1e693136b5d7d7f}
+      \strng{authorbibnamehash}{c273ac0a2be88117b1e693136b5d7d7f}
+      \strng{authornamehash}{c273ac0a2be88117b1e693136b5d7d7f}
+      \strng{authorfullhash}{c273ac0a2be88117b1e693136b5d7d7f}
+      \strng{authorfullhashraw}{c273ac0a2be88117b1e693136b5d7d7f}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Preprints}
+      \field{title}{Engram: A Systematic Approach to Optimize Keyboard Layouts for Touch Typing, With Example for the English Language}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.20944/preprints202103.0287.v1
+      \endverb
+    \endentry
+    \entry{lockin}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=d5dd8c9f2f414060dffe269a1ceff841}{%
+           family={KAY},
+           familyi={K\bibinitperiod},
+           given={{N. M.}},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Glasgow}%
+      }
+      \list{publisher}{1}{%
+        {University of Strathclyde}%
+      }
+      \strng{namehash}{d5dd8c9f2f414060dffe269a1ceff841}
+      \strng{fullhash}{d5dd8c9f2f414060dffe269a1ceff841}
+      \strng{fullhashraw}{d5dd8c9f2f414060dffe269a1ceff841}
+      \strng{bibnamehash}{d5dd8c9f2f414060dffe269a1ceff841}
+      \strng{authorbibnamehash}{d5dd8c9f2f414060dffe269a1ceff841}
+      \strng{authornamehash}{d5dd8c9f2f414060dffe269a1ceff841}
+      \strng{authorfullhash}{d5dd8c9f2f414060dffe269a1ceff841}
+      \strng{authorfullhashraw}{d5dd8c9f2f414060dffe269a1ceff841}
+      \field{extraname}{1}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Discussion Papers in Economics}
+      \field{number}{13-10}
+      \field{series}{Strathclyde Discussion Papers in Economics}
+      \field{title}{Lock in, Path Dependence, and the Internationalization of QWERTY}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://ideas.repec.org/p/str/wpaper/1310.html
+      \endverb
+      \verb{url}
+      \verb https://ideas.repec.org/p/str/wpaper/1310.html
+      \endverb
+    \endentry
+    \entry{qwerty-dilemma}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=65303a2a6d9ce1ce7395092ce6c50cf1}{%
+           family={Kafaee},
+           familyi={K\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0fce27fc7312a2649d02e160a9c8fcbc}{%
+           family={DAVIRAN},
+           familyi={D\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=0dc7cd8a8b29e1e46a0e48376be1339a}{%
+           family={TAGAVI},
+           familyi={T\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{f9b57c8ecfc6759f000d971329348c66}
+      \strng{fullhash}{f9b57c8ecfc6759f000d971329348c66}
+      \strng{fullhashraw}{f9b57c8ecfc6759f000d971329348c66}
+      \strng{bibnamehash}{f9b57c8ecfc6759f000d971329348c66}
+      \strng{authorbibnamehash}{f9b57c8ecfc6759f000d971329348c66}
+      \strng{authornamehash}{f9b57c8ecfc6759f000d971329348c66}
+      \strng{authorfullhash}{f9b57c8ecfc6759f000d971329348c66}
+      \strng{authorfullhashraw}{f9b57c8ecfc6759f000d971329348c66}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{AI Soc.}
+      \field{number}{3}
+      \field{title}{The {QWERTY} keyboard from the perspective of the Collingridge dilemma: lessons for co-construction of human-technology}
+      \field{volume}{39}
+      \field{year}{2024}
+      \field{pages}{1229\bibrangedash 1241}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1007/s00146-022-01573-1
+      \endverb
+    \endentry
+    \entry{qwerty-immortal}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=cb43df87f36b829fb3fd1f06fb17a76f}{%
+           family={NOYES},
+           familyi={N\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institution of Engineering}%
+        {Technology (IET)}%
+      }
+      \strng{namehash}{cb43df87f36b829fb3fd1f06fb17a76f}
+      \strng{fullhash}{cb43df87f36b829fb3fd1f06fb17a76f}
+      \strng{fullhashraw}{cb43df87f36b829fb3fd1f06fb17a76f}
+      \strng{bibnamehash}{cb43df87f36b829fb3fd1f06fb17a76f}
+      \strng{authorbibnamehash}{cb43df87f36b829fb3fd1f06fb17a76f}
+      \strng{authornamehash}{cb43df87f36b829fb3fd1f06fb17a76f}
+      \strng{authorfullhash}{cb43df87f36b829fb3fd1f06fb17a76f}
+      \strng{authorfullhashraw}{cb43df87f36b829fb3fd1f06fb17a76f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computing and Control Engineering}
+      \field{number}{3}
+      \field{title}{{QWERTY} - the immortal keyboard}
+      \field{volume}{9}
+      \field{year}{1998}
+      \field{pages}{117\bibrangedash 122}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1049/cce:19980302
+      \endverb
+    \endentry
+    \entry{diagramBasedLayout}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=535b0cfa1dfa664fd86b5a3c3a12a000}{%
+           family={LEWIS},
+           familyi={L\bibinitperiod},
+           given={{J. R.}},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ae08fd988a857d1f5c66f91d8903f108}{%
+           family={KENNEDY},
+           familyi={K\bibinitperiod},
+           given={{P. J.}},
+           giveni={P\bibinitperiod}}}%
+        {{hash=f463e0b21f1fc52d7f1e941f31779ee4}{%
+           family={LALOMIA},
+           familyi={L\bibinitperiod},
+           given={{M. J.}},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Thousand Oaks, CA}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications}%
+      }
+      \strng{namehash}{7dbb6d095ddc96ef796d693a585a30d5}
+      \strng{fullhash}{7dbb6d095ddc96ef796d693a585a30d5}
+      \strng{fullhashraw}{7dbb6d095ddc96ef796d693a585a30d5}
+      \strng{bibnamehash}{7dbb6d095ddc96ef796d693a585a30d5}
+      \strng{authorbibnamehash}{7dbb6d095ddc96ef796d693a585a30d5}
+      \strng{authornamehash}{7dbb6d095ddc96ef796d693a585a30d5}
+      \strng{authorfullhash}{7dbb6d095ddc96ef796d693a585a30d5}
+      \strng{authorfullhashraw}{7dbb6d095ddc96ef796d693a585a30d5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the Human Factors and Ergonomics Society Annual Meeting}
+      \field{number}{5}
+      \field{title}{Development of a digram-based typing key layout for single-finger/stylus input}
+      \field{volume}{43}
+      \field{year}{1999}
+      \field{pages}{415\bibrangedash 419}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1177/154193129904300505
+      \endverb
+    \endentry
+    \entry{wikidump}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=b9bada49b0e24fcfbd254933eac6e445}{%
+           family={{Wikipedia Foundation}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b9bada49b0e24fcfbd254933eac6e445}
+      \strng{fullhash}{b9bada49b0e24fcfbd254933eac6e445}
+      \strng{fullhashraw}{b9bada49b0e24fcfbd254933eac6e445}
+      \strng{bibnamehash}{b9bada49b0e24fcfbd254933eac6e445}
+      \strng{authorbibnamehash}{b9bada49b0e24fcfbd254933eac6e445}
+      \strng{authornamehash}{b9bada49b0e24fcfbd254933eac6e445}
+      \strng{authorfullhash}{b9bada49b0e24fcfbd254933eac6e445}
+      \strng{authorfullhashraw}{b9bada49b0e24fcfbd254933eac6e445}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Online}
+      \field{note}{Přístup: 20. 9. 2025}
+      \field{title}{Wikipedia Data Dump, September 2025, CSwiki-20250920}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://mirror.accum.se/mirror/wikimedia.org/dumps/cswiki/20250920/
+      \endverb
+      \verb{url}
+      \verb https://mirror.accum.se/mirror/wikimedia.org/dumps/cswiki/20250920/
+      \endverb
+    \endentry
+    \entry{prehistory}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=3fae2d8d6ab7cc0213af54eca85b5837}{%
+           family={YASUOKA},
+           familyi={Y\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c00f2d58e580e1dea4d2f4822caa632e}{%
+           family={YASUOKA},
+           familyi={Y\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{eeb58c842f09739943e11fd749377110}
+      \strng{fullhash}{eeb58c842f09739943e11fd749377110}
+      \strng{fullhashraw}{eeb58c842f09739943e11fd749377110}
+      \strng{bibnamehash}{eeb58c842f09739943e11fd749377110}
+      \strng{authorbibnamehash}{eeb58c842f09739943e11fd749377110}
+      \strng{authornamehash}{eeb58c842f09739943e11fd749377110}
+      \strng{authorfullhash}{eeb58c842f09739943e11fd749377110}
+      \strng{authorfullhashraw}{eeb58c842f09739943e11fd749377110}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ZINBUN}
+      \field{number}{42}
+      \field{title}{On the Prehistory of QWERTY}
+      \field{year}{2011}
+      \verb{urlraw}
+      \verb https://api.semanticscholar.org/CorpusID:53616602
+      \endverb
+      \verb{url}
+      \verb https://api.semanticscholar.org/CorpusID:53616602
+      \endverb
+    \endentry
+    \entry{hidden-in-plain-sight}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=abbc1c3d43d17e651312c6fefd2adc26}{%
+           family={GALBRAITH},
+           familyi={G\bibinitperiod},
+           given={{C. S.}},
+           giveni={C\bibinitperiod}}}%
+        {{hash=2f7fed118b30b1a95a0ed1f0cde37c37}{%
+           family={KAY},
+           familyi={K\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Informa UK Limited}%
+      }
+      \strng{namehash}{f7262c08daec16376de0917e3e58d4d3}
+      \strng{fullhash}{f7262c08daec16376de0917e3e58d4d3}
+      \strng{fullhashraw}{f7262c08daec16376de0917e3e58d4d3}
+      \strng{bibnamehash}{f7262c08daec16376de0917e3e58d4d3}
+      \strng{authorbibnamehash}{f7262c08daec16376de0917e3e58d4d3}
+      \strng{authornamehash}{f7262c08daec16376de0917e3e58d4d3}
+      \strng{authorfullhash}{f7262c08daec16376de0917e3e58d4d3}
+      \strng{authorfullhashraw}{f7262c08daec16376de0917e3e58d4d3}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Business History}
+      \field{number}{8}
+      \field{title}{Hidden in plain sight: {QWERTY}, the search for optimality and {IP} complementarity}
+      \field{volume}{67}
+      \field{year}{2025}
+      \field{pages}{2209\bibrangedash 2231}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1080/00076791.2025.2458052
+      \endverb
+    \endentry
+    \entry{qwertyoptimality}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=d5dd8c9f2f414060dffe269a1ceff841}{%
+           family={KAY},
+           familyi={K\bibinitperiod},
+           given={{N. M.}},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Glasgow}%
+      }
+      \list{publisher}{1}{%
+        {University of Strathclyde}%
+      }
+      \strng{namehash}{d5dd8c9f2f414060dffe269a1ceff841}
+      \strng{fullhash}{d5dd8c9f2f414060dffe269a1ceff841}
+      \strng{fullhashraw}{d5dd8c9f2f414060dffe269a1ceff841}
+      \strng{bibnamehash}{d5dd8c9f2f414060dffe269a1ceff841}
+      \strng{authorbibnamehash}{d5dd8c9f2f414060dffe269a1ceff841}
+      \strng{authornamehash}{d5dd8c9f2f414060dffe269a1ceff841}
+      \strng{authorfullhash}{d5dd8c9f2f414060dffe269a1ceff841}
+      \strng{authorfullhashraw}{d5dd8c9f2f414060dffe269a1ceff841}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Discussion Papers in Economics}
+      \field{number}{13-24}
+      \field{series}{Strathclyde Discussion Papers in Economics}
+      \field{title}{QWERTY and the Search for Optimality}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://ideas.repec.org/p/str/wpaper/1324.html
+      \endverb
+      \verb{url}
+      \verb https://ideas.repec.org/p/str/wpaper/1324.html
+      \endverb
+    \endentry
+    \entry{7814594}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=6623a26b13aef7a66dc00cc13971f029}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=704df6e8fda3a2ce1f49fc3bb9dc2b67}{%
+           family={MALI},
+           familyi={M\bibinitperiod},
+           given={{A. D.}},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{bdce1d9e8d880861a83143fbf18b7cf7}
+      \strng{fullhash}{bdce1d9e8d880861a83143fbf18b7cf7}
+      \strng{fullhashraw}{bdce1d9e8d880861a83143fbf18b7cf7}
+      \strng{bibnamehash}{bdce1d9e8d880861a83143fbf18b7cf7}
+      \strng{authorbibnamehash}{bdce1d9e8d880861a83143fbf18b7cf7}
+      \strng{authornamehash}{bdce1d9e8d880861a83143fbf18b7cf7}
+      \strng{authorfullhash}{bdce1d9e8d880861a83143fbf18b7cf7}
+      \strng{authorfullhashraw}{bdce1d9e8d880861a83143fbf18b7cf7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2016 IEEE 28th International Conference on Tools with Artificial Intelligence (ICTAI)}
+      \field{title}{Modifying Keyboard Layout to Reduce Finger-Travel Distance}
+      \field{year}{2016}
+      \field{pages}{165\bibrangedash 168}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/ICTAI.2016.0034
+      \endverb
+    \endentry
+    \entry{evolutionFromNgrams}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=249e81f66c06d6438d0d9b6aa33163bf}{%
+           family={MOHAMMAD},
+           familyi={M\bibinitperiod},
+           given={{G. R.}},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{249e81f66c06d6438d0d9b6aa33163bf}
+      \strng{fullhash}{249e81f66c06d6438d0d9b6aa33163bf}
+      \strng{fullhashraw}{249e81f66c06d6438d0d9b6aa33163bf}
+      \strng{bibnamehash}{249e81f66c06d6438d0d9b6aa33163bf}
+      \strng{authorbibnamehash}{249e81f66c06d6438d0d9b6aa33163bf}
+      \strng{authornamehash}{249e81f66c06d6438d0d9b6aa33163bf}
+      \strng{authorfullhash}{249e81f66c06d6438d0d9b6aa33163bf}
+      \strng{authorfullhashraw}{249e81f66c06d6438d0d9b6aa33163bf}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Natural Language Processing Journal}
+      \field{title}{The evolution of language models: From N-Grams to LLMs, and beyond}
+      \field{volume}{12}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.1016/j.nlp.2025.100168
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2949719125000445
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2949719125000445
+      \endverb
+    \endentry
+    \entry{ngramStatistics1979}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=2ea7b84d9607e3a70fbae980ebf2f223}{%
+           family={SUEN},
+           familyi={S\bibinitperiod},
+           given={C.\bibnamedelimi Y.},
+           giveni={C\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{2ea7b84d9607e3a70fbae980ebf2f223}
+      \strng{fullhash}{2ea7b84d9607e3a70fbae980ebf2f223}
+      \strng{fullhashraw}{2ea7b84d9607e3a70fbae980ebf2f223}
+      \strng{bibnamehash}{2ea7b84d9607e3a70fbae980ebf2f223}
+      \strng{authorbibnamehash}{2ea7b84d9607e3a70fbae980ebf2f223}
+      \strng{authornamehash}{2ea7b84d9607e3a70fbae980ebf2f223}
+      \strng{authorfullhash}{2ea7b84d9607e3a70fbae980ebf2f223}
+      \strng{authorfullhashraw}{2ea7b84d9607e3a70fbae980ebf2f223}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Pattern Analysis and Machine Intelligence}
+      \field{number}{2}
+      \field{title}{n-Gram Statistics for Natural Language Understanding and Text Processing}
+      \field{volume}{PAMI-1}
+      \field{year}{1979}
+      \field{pages}{164\bibrangedash 172}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1109/TPAMI.1979.4766902
+      \endverb
+    \endentry
+    \entry{jm3}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=5eb5f1aad34a65badb566b58de22889e}{%
+           family={JURAFSKY},
+           familyi={J\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=ec03172e77c13b94dcb21e87034dba51}{%
+           family={MARTIN},
+           familyi={M\bibinitperiod},
+           given={J.\bibnamedelimi H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{e8a6b8576e6b9df7c51a77fc92e75c2d}
+      \strng{fullhash}{e8a6b8576e6b9df7c51a77fc92e75c2d}
+      \strng{fullhashraw}{e8a6b8576e6b9df7c51a77fc92e75c2d}
+      \strng{bibnamehash}{e8a6b8576e6b9df7c51a77fc92e75c2d}
+      \strng{authorbibnamehash}{e8a6b8576e6b9df7c51a77fc92e75c2d}
+      \strng{authornamehash}{e8a6b8576e6b9df7c51a77fc92e75c2d}
+      \strng{authorfullhash}{e8a6b8576e6b9df7c51a77fc92e75c2d}
+      \strng{authorfullhashraw}{e8a6b8576e6b9df7c51a77fc92e75c2d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{[Online]. 3. vyd.}
+      \field{note}{Online manuscript vydán 24. srpna 2025}
+      \field{subtitle}{An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models}
+      \field{title}{Speech and Language Processing}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://web.stanford.edu/~jurafsky/slp3/
+      \endverb
+      \verb{url}
+      \verb https://web.stanford.edu/~jurafsky/slp3/
+      \endverb
+    \endentry
+    \entry{gbooksworkflow}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{hash=0fc1f40edce569fa094f4fb3c619708a}{%
+           family={RICHTER},
+           familyi={R\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=eb604f6decbe64deea62a832f85eae1e}{%
+           family={Böhm},
+           familyi={B\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{5cd38316d6a7e92e406e7d50347f3972}
+      \strng{fullhash}{5cd38316d6a7e92e406e7d50347f3972}
+      \strng{fullhashraw}{5cd38316d6a7e92e406e7d50347f3972}
+      \strng{bibnamehash}{5cd38316d6a7e92e406e7d50347f3972}
+      \strng{authorbibnamehash}{5cd38316d6a7e92e406e7d50347f3972}
+      \strng{authornamehash}{5cd38316d6a7e92e406e7d50347f3972}
+      \strng{authorfullhash}{5cd38316d6a7e92e406e7d50347f3972}
+      \strng{authorfullhashraw}{5cd38316d6a7e92e406e7d50347f3972}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 24th ACM/IEEE Joint Conference on Digital Libraries}
+      \field{isbn}{9798400710933}
+      \field{title}{A Workflow for Efficient and Interactive Analysis of the Google Books Ngram Corpus}
+      \field{year}{2025}
+    \endentry
+    \entry{evolutionaryOptimizationAlgos}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=1a692aae91e49ac7cac939c8d6a41836}{%
+           family={SIMON},
+           familyi={S\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley-Blackwell}%
+      }
+      \strng{namehash}{1a692aae91e49ac7cac939c8d6a41836}
+      \strng{fullhash}{1a692aae91e49ac7cac939c8d6a41836}
+      \strng{fullhashraw}{1a692aae91e49ac7cac939c8d6a41836}
+      \strng{bibnamehash}{1a692aae91e49ac7cac939c8d6a41836}
+      \strng{authorbibnamehash}{1a692aae91e49ac7cac939c8d6a41836}
+      \strng{authornamehash}{1a692aae91e49ac7cac939c8d6a41836}
+      \strng{authorfullhash}{1a692aae91e49ac7cac939c8d6a41836}
+      \strng{authorfullhashraw}{1a692aae91e49ac7cac939c8d6a41836}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1. vyd.}
+      \field{isbn}{978-0-470-93741-9}
+      \field{title}{Evolutionary optimization algorithms}
+      \field{year}{2013}
+    \endentry
+    \entry{aiModernApproach}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=aad2124908717de47772e8a721fe560d}{%
+           family={RUSSEL},
+           familyi={R\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3b036468531df77415a71361fc4468a9}{%
+           family={Norvig},
+           familyi={N\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London, England}%
+      }
+      \list{publisher}{1}{%
+        {Pearson Education}%
+      }
+      \strng{namehash}{c7640a06ca74aabb967c736a62d9d6ff}
+      \strng{fullhash}{c7640a06ca74aabb967c736a62d9d6ff}
+      \strng{fullhashraw}{c7640a06ca74aabb967c736a62d9d6ff}
+      \strng{bibnamehash}{c7640a06ca74aabb967c736a62d9d6ff}
+      \strng{authorbibnamehash}{c7640a06ca74aabb967c736a62d9d6ff}
+      \strng{authornamehash}{c7640a06ca74aabb967c736a62d9d6ff}
+      \strng{authorfullhash}{c7640a06ca74aabb967c736a62d9d6ff}
+      \strng{authorfullhashraw}{c7640a06ca74aabb967c736a62d9d6ff}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4. vyd.}
+      \field{isbn}{978-1-292-40113-3}
+      \field{title}{Artificial intelligence: A modern approach, global edition}
+      \field{year}{2021}
+    \endentry
+    \entry{Fidanova2021-qg}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{hash=f5816eb512d67490683da4de3c197926}{%
+           family={FIDANOVA},
+           familyi={F\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{f5816eb512d67490683da4de3c197926}
+      \strng{fullhash}{f5816eb512d67490683da4de3c197926}
+      \strng{fullhashraw}{f5816eb512d67490683da4de3c197926}
+      \strng{bibnamehash}{f5816eb512d67490683da4de3c197926}
+      \strng{authorbibnamehash}{f5816eb512d67490683da4de3c197926}
+      \strng{authornamehash}{f5816eb512d67490683da4de3c197926}
+      \strng{authorfullhash}{f5816eb512d67490683da4de3c197926}
+      \strng{authorfullhashraw}{f5816eb512d67490683da4de3c197926}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{booktitle}{Ant Colony Optimization and Applications}
+      \field{isbn}{978-3-030-67379-6}
+      \field{series}{Studies in Computational Intelligence}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1007/978-3-030-67380-2
+      \endverb
+    \endentry
+    \entry{Abraham2022-xu}{book}{}{}
+      \name{editor}{8}{}{%
+        {{hash=c2ab7e2b5663336cc4e65c8bcf1a280d}{%
+           family={Abraham},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6055286bb33124ddb5d5c8984f51e292}{%
+           family={Madureira},
+           familyi={M\bibinitperiod},
+           given={{A. M.}},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ddc2f00c4cc0b000bb626d549182c061}{%
+           family={Kaklauskas},
+           familyi={K\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6f439fff1099dbadef2c3ab8838693ac}{%
+           family={Gandhi},
+           familyi={G\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=a6ab605897655500c8fa7bcc7effb6d5}{%
+           family={Bajaj},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=13b15e0b10468355ea00608dc729d4c0}{%
+           family={Muda},
+           familyi={M\bibinitperiod},
+           given={{A. K.}},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4accb20ab6a87d4664951f775226fa4c}{%
+           family={Kriksciuniene},
+           familyi={K\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b248df4c56b8ca03fa21a77cc15dd7e2}{%
+           family={Ferreira},
+           familyi={F\bibinitperiod},
+           given={{J. C.}},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature}%
+      }
+      \strng{namehash}{fd5ac073b8cf41a832b5d6de9a876e28}
+      \strng{fullhash}{fd5ac073b8cf41a832b5d6de9a876e28}
+      \strng{fullhashraw}{fd5ac073b8cf41a832b5d6de9a876e28}
+      \strng{bibnamehash}{fd5ac073b8cf41a832b5d6de9a876e28}
+      \strng{editorbibnamehash}{fd5ac073b8cf41a832b5d6de9a876e28}
+      \strng{editornamehash}{fd5ac073b8cf41a832b5d6de9a876e28}
+      \strng{editorfullhash}{fd5ac073b8cf41a832b5d6de9a876e28}
+      \strng{editorfullhashraw}{fd5ac073b8cf41a832b5d6de9a876e28}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{edition}{1. vyd.}
+      \field{isbn}{978-3-031-27498-5}
+      \field{series}{Lecture Notes in Networks and Systems}
+      \field{title}{Innovations in bio-inspired computing and applications}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.1007/978-3-031-27499-2
+      \endverb
+    \endentry
+    \entry{dynamic-aco}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=29c43e498221323b98e3d6862cf2abc4}{%
+           family={Mavrovouniotis},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=41ee36ec00931ecec42a4aea91d776eb}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{f0f64227d9069dd0b20dbdae1cad5138}
+      \strng{fullhash}{f0f64227d9069dd0b20dbdae1cad5138}
+      \strng{fullhashraw}{f0f64227d9069dd0b20dbdae1cad5138}
+      \strng{bibnamehash}{f0f64227d9069dd0b20dbdae1cad5138}
+      \strng{authorbibnamehash}{f0f64227d9069dd0b20dbdae1cad5138}
+      \strng{authornamehash}{f0f64227d9069dd0b20dbdae1cad5138}
+      \strng{authorfullhash}{f0f64227d9069dd0b20dbdae1cad5138}
+      \strng{authorfullhashraw}{f0f64227d9069dd0b20dbdae1cad5138}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Soft Computing}
+      \field{number}{7}
+      \field{title}{A memetic ant colony optimization algorithm for the dynamic travelling salesman problem}
+      \field{volume}{15}
+      \field{year}{2011}
+      \field{pages}{1405\bibrangedash 1425}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1007/s00500-010-0680-1
+      \endverb
+    \endentry
+    \entry{pso-overview}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=13a549b160495d76ea4b0c3e596a11b0}{%
+           family={WONF},
+           familyi={W\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=15633a7fd863c5256d81f94192f83602}{%
+           family={TAN},
+           familyi={T\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=3c5cc011654fabff531ab4efcebb82ee}{%
+           family={LIU},
+           familyi={L\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{04d5fcdb66c250140188b2a4a5e2a401}
+      \strng{fullhash}{04d5fcdb66c250140188b2a4a5e2a401}
+      \strng{fullhashraw}{04d5fcdb66c250140188b2a4a5e2a401}
+      \strng{bibnamehash}{04d5fcdb66c250140188b2a4a5e2a401}
+      \strng{authorbibnamehash}{04d5fcdb66c250140188b2a4a5e2a401}
+      \strng{authornamehash}{04d5fcdb66c250140188b2a4a5e2a401}
+      \strng{authorfullhash}{04d5fcdb66c250140188b2a4a5e2a401}
+      \strng{authorfullhashraw}{04d5fcdb66c250140188b2a4a5e2a401}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Soft Computing.}
+      \field{number}{2}
+      \field{title}{Particle swarm optimization algorithm: an overview}
+      \field{volume}{22}
+      \field{year}{2018}
+      \field{pages}{387\bibrangedash 408}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1007/s00500-016-2474-6
+      \endverb
+    \endentry
+    \entry{Dey2024-nk}{book}{}{}
+      \name{editor}{1}{}{%
+        {{hash=c04028f0ae1409442e418f56e6e961d1}{%
+           family={DEY},
+           familyi={D\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{c04028f0ae1409442e418f56e6e961d1}
+      \strng{fullhash}{c04028f0ae1409442e418f56e6e961d1}
+      \strng{fullhashraw}{c04028f0ae1409442e418f56e6e961d1}
+      \strng{bibnamehash}{c04028f0ae1409442e418f56e6e961d1}
+      \strng{editorbibnamehash}{c04028f0ae1409442e418f56e6e961d1}
+      \strng{editornamehash}{c04028f0ae1409442e418f56e6e961d1}
+      \strng{editorfullhash}{c04028f0ae1409442e418f56e6e961d1}
+      \strng{editorfullhashraw}{c04028f0ae1409442e418f56e6e961d1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{edition}{2024}
+      \field{isbn}{978-981-99-7226-5}
+      \field{title}{Applications of ant colony optimization and its variants}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.1007/978-981-99-7227-2
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
