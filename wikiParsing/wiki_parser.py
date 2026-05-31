@@ -29,7 +29,7 @@ def get_wiki_text_from_dump(dump_path: str) -> Iterator[str]:
     # Použití iterparse pro streamování
     for event, elem in ET.iterparse(dump_path, events=("end",)):
         
-        # Hledáme tag 'page' s explicitním jmenným prostorem
+        # Hledá tag 'page' s explicitním jmenným prostorem
         if event == "end" and elem.tag == f'{WIKI_NAMESPACE}page':
             
             # Hledání v rámci aktuální 'page' s použitím JMENNÉHO PROSTORU
@@ -42,7 +42,7 @@ def get_wiki_text_from_dump(dump_path: str) -> Iterator[str]:
             wiki_text = text_elem.text if text_elem is not None else ""
             
             # Filtrování: Vynechat technické stránky (ns=0 jsou články, ostatní jsou diskuze/šablony)
-            # Navíc ověříme, že v titulku není dvojtečka, abychom vyřadili Soubor:, Kategorie: atd. [cite: 2, 3]
+            # Navíc ověří, že v titulku není dvojtečka, abychom vyřadili Soubor:, Kategorie: atd. [cite: 2, 3]
             ns_elem = elem.find(f'{WIKI_NAMESPACE}ns')
             ns_val = ns_elem.text if ns_elem is not None else "-1"
             
@@ -53,7 +53,7 @@ def get_wiki_text_from_dump(dump_path: str) -> Iterator[str]:
             elem.clear()
 
 
-# --- 2. MEDIAWIKI MARKUP CLEANING ---
+# --- 2. MediaWiki Makrup čištění ---
 
 def clean_wiki_markup(wiki_text: str) -> str:
     """
@@ -96,7 +96,7 @@ def clean_wiki_markup(wiki_text: str) -> str:
     
     return text
 
-# --- 3. DIGRAM FREQUENCY ANALYSIS ---
+# --- 3. Analýza frekvence n-gramů ---
 
 def spocitej_digramy(text: str) -> Dict[str, float]:
     """Spočítá a vrátí relativní frekvenci po sobě jdoucích dvojic znaků (digramů)."""
@@ -117,7 +117,7 @@ def spocitej_digramy(text: str) -> Dict[str, float]:
     
     return relativni_frekvence
 
-# --- 4. MAIN PROCESSING FUNCTION ---
+# --- 4. Hlavní procesní funkce ---
 
 def process_and_analyze_dump(dump_path: str):
     """
@@ -127,7 +127,6 @@ def process_and_analyze_dump(dump_path: str):
     clanok_count = 0
     
     # Množina povolených znaků pro češtinu (+ mezery a základní interpunkce)
-    # Rozhodněte se, které znaky budete mapovat na klávesnici!
     povolené_znaky = set("aábcčdďeéěfghiíjklmnňoópqrřsštťuúůvyýzž.,!?():- /") 
     
     for wiki_text in get_wiki_text_from_dump(dump_path):
@@ -180,7 +179,7 @@ if __name__ == "__main__":
 
         # C. Uložení frekvencí do JSON
         try:
-            # Ukládáme jen digramy s frekvencí nad 0.00001 (0.001%) pro zmenšení souboru
+            # Ukládá jen digramy s frekvencí nad 0.00001 (0.001%) pro zmenšení souboru
             relevantni_digramy = {k: v for k, v in frekvence_digramu.items() if v > 0.00001} 
             
             with open("frekvence_digramu_cs.json", "w", encoding="utf-8") as f:
